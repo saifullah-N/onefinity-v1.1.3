@@ -24,7 +24,7 @@ const z_slider_defaults = {
     "min-soft-limit": -160,
     "max-velocity": 7,
   },
-}; 
+};  
 
 module.exports = {
     template: "#admin-general-view-template",
